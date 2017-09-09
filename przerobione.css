@@ -26,35 +26,35 @@
     color: #F1F1F1;
 }
 .chat .welcome-message h1 {
-    color: #afafff;
+    color: #ffffff;
     width: 260px;
 }
 .chat form {
-    box-shadow: 0 -1px 0 #afafff;
+    box-shadow: 0 -1px 0 #ffffff;
 }
 .theme-dark .chat .welcome-message a {
-    color: #afafff;
+    color: #ffffff;
 }
 .message-group .mentioned .message-text:after {
-    border-left: 4px solid #afafff;
+    border-left: 4px solid #ffffff;
     background: rgba(182, 155, 241, 0.36);
 }
 .theme-dark .message-group .mentioned .message-text {
     background: rgba(137, 100, 236, 0.1);
 }
 .chat .new-messages-bar button {
-    background: #afafff;
+    background: #ffffff;
     border-radius: 5px;
 }
 .chat .has-more button {
-    color: #afafff;
+    color: #ffffff;
 }
 .chat .divider.divider-red>span {
     background: rgba(226, 0, 0, 0.6) !important;
     color: rgb(251, 245, 245) !important;
 }
 .chat .welcome-message h1 {
-    color: #afafff;
+    color: #ffffff;
     width: 360px;
 }
 .chat .empty-message h1 {
@@ -65,7 +65,7 @@
     margin: 15px;
 }
 .chat .new-messages-bar button:last-child {
-    color: #fff;
+    color: #ffffff;
 }
 .theme-dark .chat>.content .messages .divider:not(.red) span {
     opacity: 0.9;
