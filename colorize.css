@@ -148,9 +148,9 @@ body{background: var(--main-color);}
 
 .app .friends-row .status{border-color:rgba(200,200,200,.5) !important}
 
-.theme-dark.context-menu .item:hover {background-color:rgba(0,0,0,.14);}
+.theme-dark.context-menu .item:hover {background-color:rgba(255,255,255,.14);}
 
-.theme-dark.context-menu .context-menu {border:1px solid rgba(0,0,0,.25)}
+.theme-dark.context-menu .context-menu {border:1px solid rgba(255,255,255,.25)}
 
 .app :-webkit-any(.member,.channel,.account) .status {border-color:transparent !important;}
 
@@ -168,15 +168,15 @@ body{background: var(--main-color);}
 
 .private-channels .channel:hover .icon-friends::before {filter:brightness(150%)contrast(160%);}
 
-.app #friends .friends-table .friends-row:hover {background-color:rgba255, 255, 255,.06);}
+.app #friends .friends-table .friends-row:hover {background-color:rgba(255,255,255,.06);}
 
-.theme-dark #friends .friends-table .friends-row .friends-column-actions .friends-action {background-color: rgba(255, 255, 255,.5)}
+.theme-dark #friends .friends-table .friends-row .friends-column-actions .friends-action {background-color: rgba(255,255,255.5)}
 
 .theme-dark #friends .friends-table .friends-row:hover .friends-column-actions .friends-action {background-color: rgba(255, 255, 255,.5)}
 
 .theme-dark #friends .friends-table .friend-table-add-wrapper .friend-table-add-header {background: linear-gradient(-180deg,rgba(200,200,200,.007) 0,rgba(210,210,210,.01) 100%);}
 
-.app .guild-channels .channel-voice .channel-arrow:hover{background-color:rgba(255, 255, 255,.07);}
+.app .guild-channels .channel-voice .channel-arrow:hover{background-color:rgba(255, 255,255,.07);}
 
 .private-channel-recipients-invite.themed-popout{background:transparent;}
 
