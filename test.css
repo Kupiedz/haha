@@ -1,0 +1,7 @@
+.header .video {
+position: absolute;
+top: 0;
+left: 0;
+min-weidth: 100%;
+min-height: 100%	;
+}
